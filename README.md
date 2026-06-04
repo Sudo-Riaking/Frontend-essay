@@ -1,4 +1,4 @@
-# Frontend-essay
+# Frontend projects
 
 Ce dépôt contient plusieurs mini-projets front-end organisés par dossier :
 
